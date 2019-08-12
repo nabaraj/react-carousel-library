@@ -1,11 +1,11 @@
 {
-  "name": "react-carousel-package",
+  "name": "react-carousel-library",
   "version": "1.0.1",
   "description": "",
   "main": "build/index.js",
   "repository": {
     "type": "git",
-    "url": "<git_repo_url>"
+    "url": "https://github.com/nabaraj/react-carousel-library"
   },
   "peerDependencies": {
     "react": "^16.9.0"
