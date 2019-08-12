@@ -29,5 +29,4 @@ showArrowBg={true} enable arrowbox (may be this option we can replace)
 sliderType=”grid” (type of slide fullscreen or grid to control the slider)
 classes=”” To add class
 ```
-
-Full carousel component can be forked from this git [Link](https://github.com/nabaraj/react-carousel-library)
+I have written a step by step guideline to write this carousel [here](https://dev.to/nabaraj/build-reactjs-carousel-part1-1gjd)
