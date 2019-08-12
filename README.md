@@ -1,6 +1,14 @@
 # React Carousel Component
 
-Import react carousel
+[![GitHub issues](https://img.shields.io/github/issues/nabaraj/react-carousel-package)](https://github.com/nabaraj/react-carousel-package/issues)[![GitHub forks](https://img.shields.io/github/forks/nabaraj/react-carousel-package)](https://github.com/nabaraj/react-carousel-package/network)[![GitHub stars](https://img.shields.io/github/stars/nabaraj/react-carousel-package)](https://github.com/nabaraj/react-carousel-package/stargazers)[![GitHub license](https://img.shields.io/github/license/nabaraj/react-carousel-package)](https://github.com/nabaraj/react-carousel-package)
+
+Install React Carousel Component by
+
+```
+npm i react-carousel-package
+```
+
+Then add carousel like below example.
 
 ```
 <Carousel autoScroll={false} showArrowBg={true} sliderType="grid">
