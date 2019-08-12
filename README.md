@@ -1,11 +1,11 @@
 # React Carousel Component
 
-[![GitHub issues](https://img.shields.io/github/issues/nabaraj/react-carousel-package)](https://github.com/nabaraj/react-carousel-package/issues)[![GitHub forks](https://img.shields.io/github/forks/nabaraj/react-carousel-package)](https://github.com/nabaraj/react-carousel-package/network)[![GitHub stars](https://img.shields.io/github/stars/nabaraj/react-carousel-package)](https://github.com/nabaraj/react-carousel-package/stargazers)[![GitHub license](https://img.shields.io/github/license/nabaraj/react-carousel-package)](https://github.com/nabaraj/react-carousel-package)
+[![GitHub issues](https://img.shields.io/github/issues/nabaraj/react-carousel-library)](https://github.com/nabaraj/react-carousel-library/issues)[![GitHub forks](https://img.shields.io/github/forks/nabaraj/react-carousel-library)](https://github.com/nabaraj/react-carousel-library/network)[![GitHub stars](https://img.shields.io/github/stars/nabaraj/react-carousel-library)](https://github.com/nabaraj/react-carousel-library/stargazers)[![GitHub license](https://img.shields.io/github/license/nabaraj/react-carousel-library)](https://github.com/nabaraj/react-carousel-library/blob/master/LICENSE)
 
 Install React Carousel Component by
 
 ```
-npm i react-carousel-package
+npm i react-carousel-library
 ```
 
 Then add carousel like below example.
@@ -29,3 +29,5 @@ showArrowBg={true} enable arrowbox (may be this option we can replace)
 sliderType=”grid” (type of slide fullscreen or grid to control the slider)
 classes=”” To add class
 ```
+
+Full carousel component can be forked from this git [Link](https://github.com/nabaraj/react-carousel-library)
